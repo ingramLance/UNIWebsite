@@ -1,3 +1,4 @@
 ---
 ---
-This is a __Markdown__ file. It can be _Formated_ easily. Links are [easy to place](https://uni.blackboard.com)
+# __Lance Ingram__
+## __Major__:Computer Science / __Minor__:Economics /[LinkedIn]{https://www.linkedin.com/in/lance-ing} 
