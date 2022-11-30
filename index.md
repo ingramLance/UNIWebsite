@@ -7,6 +7,6 @@ I am a senior at the University of Northern Iowa graduating in may with a degree
 
 ## Projects
 {% for project in site.data.projects %}	
-{{project.title}}
-{{project.description}}
+    {{project.title}}
+    {{project.description}}
 {% endfor %}
