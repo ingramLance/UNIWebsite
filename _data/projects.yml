@@ -1,14 +1,9 @@
-- title: Train
-  description: This is a project that involved the use of ADA and a group of us, that worked as a team to develope a working model train. This was made for Real Time Embedded systems.
+- title: Train description: This is a project that involved the use of ADA and a group of us, that worked as a team to develope a working model train. This was made for Real Time Embedded systems.
 
-- title: Economics Calculator
-  description: I made this calculator for my Law and Economics class as a final independent project, the goal of the calculator is to determine if a company should grow or stay small based on the assumption of profits and the actions of a competitor.
+- title: Economics Calculator description: I made this calculator for my Law and Economics class as a final independent project, the goal of the calculator is to determine if a company should grow or stay small based on the assumption of profits and the actions of a competitor.
 
-- title: UNIWebsite
- description: I made this Website for my User Interface Design class. We used this as a way to learn about basic functions of static site generator, YML, Markdown, and CSS.
+- title: UNIWebsite description: I made this Website for my User Interface Design class. We used this as a way to learn about basic functions of static site generator, YML, Markdown, and CSS.
 
-- title: Calculator
-  description: We made a calculator in android studio that could be used by someone using an Android phone that provides the basic functions of a calculator and a few special. 
+- title: Calculator description: We made a calculator in android studio that could be used by someone using an Android phone that provides the basic functions of a calculator and a few special. 
 
-- title: WiseCrack
-  description: This was a project that was produced to create a list of objectives for a quiz. it was intended for out Computational Theory course. it was meant to slect objectives for our quizes that we were to take.
+- title: WiseCrack description: This was a project that was produced to create a list of objectives for a quiz. it was intended for out Computational Theory course. it was meant to slect objectives for our quizes that we were to take.
